@@ -1,8 +1,8 @@
 /// <reference types="cypress"/>
-describe("Cypress-Project-02 - Login Form", () => {
+describe("Cypress-Project-03 - Booking Function", () => {
   beforeEach(() => {
     // 1
-    cy.visit("https://techglobal-training.com/frontend/project-2");
+    cy.visit("https://www.techglobal-training.com/frontend/project-3");
 
 
   });
